@@ -12,3 +12,4 @@
 - Simple footer matching site design
 - Responsive design for mobile and desktop
 - Lightbox feature for viewing projects in detail
+- setup simple editor
